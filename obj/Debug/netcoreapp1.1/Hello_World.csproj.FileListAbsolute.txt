@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/bin/Debug/netcoreapp1.1/Hello_World.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/bin/Debug/netcoreapp1.1/Hello_World.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/bin/Debug/netcoreapp1.1/Hello_World.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/bin/Debug/netcoreapp1.1/Hello_World.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/bin/Debug/netcoreapp1.1/Hello_World.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/obj/Debug/netcoreapp1.1/Hello_World.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/obj/Debug/netcoreapp1.1/Hello_World.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/Hello_World/obj/Debug/netcoreapp1.1/Hello_World.pdb
